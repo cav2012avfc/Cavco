@@ -1,2 +1,2 @@
 # Cavco
-Self playing scratch game made to be used on any device
+cavco is a project made to bring completed scratch.mit.edu games from the profile cavco onto any device thanks to being able to download
